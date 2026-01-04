@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Som
-- 👀 I’m a product designer starting to learn how to code
+- 👀 I’m a Senior Product Designer at Atlassian
 - 🌱 I’m currently learning JavaScript and basic front-end development
 
 <!---
