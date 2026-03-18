@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Som
-- 👀 I’m a Senior Product Designer at Atlassian
-- 🌱 I’m currently learning JavaScript and basic front-end development
+# Som 👋
 
-<!---
-designedbysom/designedbysom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a Senior Product Designer at Atlassian, working on AI surfaces.
+
+I design and build AI outputs, interaction patterns, and the systems that make intelligent products feel considered.
+
+🛠️ Currently building Claude Code skills that encode design judgment.
+📖 Learning JavaScript and React through projects, not tutorials.
+
+→ [LinkedIn](https://www.linkedin.com/in/designedbysom) 
