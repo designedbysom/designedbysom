@@ -1,4 +1,4 @@
-# Som 👋
+# Hey, I'm Som 👋
 
 - 👀 I’m a Senior Product Designer at Atlassian, working on AI surfaces.
 
